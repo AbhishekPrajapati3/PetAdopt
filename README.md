@@ -56,7 +56,7 @@
 
 ### Installation
 
-git clone https://github.com/your-username/pet_adopt.git
+git clone https://github.com/AbhishekPrajapati3/pet_adopt
 
 cd pet_adopt
 
